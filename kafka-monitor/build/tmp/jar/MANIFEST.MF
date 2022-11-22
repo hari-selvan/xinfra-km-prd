@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: kafka-monitor
+Implementation-Version: 2.5.15-SNAPSHOT
+Specification-Vendor: LinkedIn
+Name: kafka-monitor
+Specification-Title: kafka-monitor
+Specification-Version: 2.5.15-SNAPSHOT
+Implementation-Vendor: LinkedIn
+
